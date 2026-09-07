@@ -247,8 +247,8 @@ branch-protection:
               - "lint"
               - "unit"
               - "build"
-              - "integration-calico"
-              - "integration-cilium"
+              - "integration (integration-calico)"
+              - "integration (integration-cilium)"
               - "EasyCLA"
           required_pull_request_reviews:
             dismiss_stale_reviews: true
